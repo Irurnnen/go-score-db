@@ -4,7 +4,7 @@
 
 - [go-score-gui](https://github.com/Irurnnen/go-score-gui)
 - [go-score-orchestra](https://github.com/Irurnnen/go-score-orchestra)
-- Вы здесь:[go-score-db](https://github.com/Irurnnen/go-score-db)
+- Вы здесь: [go-score-db](https://github.com/Irurnnen/go-score-db)
 - [go-score-solver](https://github.com/Irurnnen/go-score-solver)
 
 ### Запуск:
